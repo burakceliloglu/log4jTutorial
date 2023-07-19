@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+
+    <Properties>
+        <Property name="basePath">C:\Users\burak\OneDrive\Masaüstü\log4jDemo</Property>
+    </Properties>
+
+    <Appenders>
+        <Console name="ConsoleAppender" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+        </Console>
+
+<!--        <File name="FileAppender" fileName="application-${date:yyyyMMdd}.log" immediateFlush="false" append="true">-->
+<!--            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>-->
+<!--        </File>-->
+
+        <RollingFile name="RollingFileAppender"
+                     fileName="Timer-${date:dd-MM-yyy}.log"
+                     filePattern="app-%d{HH:mm:ss.SSS}.log">
+            <PatternLayout>
+                <pattern>
+                    [%-5level] %d{HH:mm:ss} [%t] %c{1} - %msg%n
+                </pattern>
+            </PatternLayout>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="1MB" />
+            </Policies>
+            <DefaultRolloverStrategy>
+                <Delete basePath="${basePath}">
+                    <IfLastModified age="1d" />
+                </Delete>
+            </DefaultRolloverStrategy>
+        </RollingFile>
+
+
+
+
+<!--        <RollingFile name="DebugLogger"-->
+<!--                     fileName="Timer-${date:dd-MM-yyy}.log"-->
+<!--                     filePattern="app-%d{HH:mm:ss.SSS}.log">-->
+<!--            <LevelRangeFilter minLevel="DEBUG" maxLevel="DEBUG" onMatch="ACCEPT" onMismatch="DENY"/>-->
+<!--            <PatternLayout>-->
+<!--                <pattern>-->
+<!--                    [%-5level] %d{HH:00:00} [%t] %c{1} - %msg%n-->
+<!--                </pattern>-->
+<!--            </PatternLayout>-->
+<!--            <Policies>-->
+<!--                <SizeBasedTriggeringPolicy size="1MB" />-->
+<!--            </Policies>-->
+<!--            <DefaultRolloverStrategy>-->
+<!--                <Delete basePath="${basePath}">-->
+<!--                    <IfLastModified age="1d" />-->
+<!--                </Delete>-->
+<!--            </DefaultRolloverStrategy>-->
+<!--        </RollingFile>-->
+
+<!--        <RollingFile name="InfoLogger"-->
+<!--                     fileName="Timer-${date:dd-MM-yyy}.log"-->
+<!--                     filePattern="${basePath}/app-%d{HH:mm:ss.SSS}.log">-->
+<!--            <LevelRangeFilter minLevel="INFO" maxLevel="INFO" onMatch="ACCEPT" onMismatch="DENY"/>-->
+<!--            <PatternLayout>-->
+<!--                <pattern>-->
+<!--                    [%-5level] %d{HH:mm:00} [%t] %c{1} - %msg%n-->
+<!--                </pattern>-->
+<!--            </PatternLayout>-->
+<!--            <Policies>-->
+<!--                <SizeBasedTriggeringPolicy size="1MB" />-->
+<!--            </Policies>-->
+<!--            <DefaultRolloverStrategy>-->
+<!--                <Delete basePath="${basePath}">-->
+<!--                    <IfLastModified age="1d" />-->
+<!--                </Delete>-->
+<!--            </DefaultRolloverStrategy>-->
+<!--        </RollingFile>-->
+
+<!--        <RollingFile name="WarningLogger"-->
+<!--                     fileName="Timer-${date:dd-MM-yyy}.log"-->
+<!--                     filePattern="app-%d{HH:mm:ss.SSS}.log">-->
+<!--            <LevelRangeFilter minLevel="WARN" maxLevel="WARN" onMatch="ACCEPT" onMismatch="DENY"/>-->
+<!--            <PatternLayout>-->
+<!--                <pattern>-->
+<!--                    [%-5level] %d{HH:mm:ss} [%t] %c{1} - %msg%n-->
+<!--                </pattern>-->
+<!--            </PatternLayout>-->
+<!--            <Policies>-->
+<!--                <SizeBasedTriggeringPolicy size="1MB" />-->
+<!--            </Policies>-->
+<!--            <DefaultRolloverStrategy>-->
+<!--                <Delete basePath="${basePath}">-->
+<!--                    <IfLastModified age="1d" />-->
+<!--                </Delete>-->
+<!--            </DefaultRolloverStrategy>-->
+<!--        </RollingFile>-->
+    </Appenders>
+    <Loggers>
+<!--        <Logger name="Debug Logger" additivity="false" level="debug">-->
+<!--            <AppenderRef ref="FileAppender" />-->
+<!--            <AppenderRef ref="ConsoleAppender" />-->
+<!--        </Logger>-->
+
+<!--        <Logger name="Warning Logger" additivity="false" level="warn">-->
+<!--            <AppenderRef ref="WarningLogger" />-->
+<!--            <AppenderRef ref="ConsoleAppender" />-->
+<!--        </Logger>-->
+
+<!--        <Logger name="Info Logger" additivity="false" level="info">-->
+<!--            <AppenderRef ref="InfoLogger" />-->
+<!--            <AppenderRef ref="ConsoleAppender" />-->
+<!--        </Logger>-->
+
+        <Root level="all">
+            <AppenderRef ref="ConsoleAppender"/>
+            <AppenderRef ref="RollingFileAppender"/>
+<!--            <AppenderRef ref="InfoLogger"/>-->
+<!--            <AppenderRef ref="DebugLogger"/>-->
+<!--            <AppenderRef ref="WarningLogger"/>-->
+        </Root>
+    </Loggers>
+</Configuration>

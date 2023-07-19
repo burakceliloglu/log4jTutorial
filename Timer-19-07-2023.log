@@ -1,0 +1,150 @@
+[WARN ] 13:38:40 [Thread-0] MyTimerLoggings - This is warning level.
+[WARN ] 13:38:40 [Thread-1] MyTimerLoggings - This is warning level.
+[WARN ] 13:38:47 [Thread-2] MyTimerLoggings - This is warning level.
+[WARN ] 13:38:47 [Thread-3] MyTimerLoggings - This is warning level.
+[WARN ] 13:38:48 [Thread-4] MyTimerLoggings - This is warning level.
+[WARN ] 13:38:48 [Thread-5] MyTimerLoggings - This is warning level.
+[WARN ] 13:38:49 [Thread-6] MyTimerLoggings - This is warning level.
+[WARN ] 13:38:50 [Thread-7] MyTimerLoggings - This is warning level.
+[WARN ] 13:38:50 [Thread-8] MyTimerLoggings - This is warning level.
+[WARN ] 13:38:52 [Thread-9] MyTimerLoggings - This is warning level.
+[INFO ] 13:38:55 [Thread-10] MyTimerLoggings - This is info level.
+[DEBUG] 13:38:56 [Thread-11] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:56 [Thread-12] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:57 [Thread-13] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:57 [Thread-14] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:57 [Thread-15] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:57 [Thread-16] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:57 [Thread-11] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:57 [Thread-17] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:57 [Thread-18] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:57 [Thread-12] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:58 [Thread-13] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:58 [Thread-14] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:58 [Thread-15] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:58 [Thread-16] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:58 [Thread-11] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:58 [Thread-17] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:58 [Thread-18] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:58 [Thread-12] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:59 [Thread-13] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:59 [Thread-14] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:59 [Thread-15] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:59 [Thread-16] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:59 [Thread-11] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:59 [Thread-17] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:59 [Thread-18] MyTimerLoggings - This is debug level.
+[DEBUG] 13:38:59 [Thread-12] MyTimerLoggings - This is debug level.
+[DEBUG] 13:39:00 [Thread-13] MyTimerLoggings - This is debug level.
+[DEBUG] 13:39:00 [Thread-14] MyTimerLoggings - This is debug level.
+[DEBUG] 13:39:00 [Thread-15] MyTimerLoggings - This is debug level.
+[DEBUG] 13:39:00 [Thread-16] MyTimerLoggings - This is debug level.
+[DEBUG] 13:39:31 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:39:32 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:39:33 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:39:34 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:39:35 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:39:36 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:39:37 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:39:38 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:27 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:28 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:29 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:30 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:31 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:32 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:33 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:34 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:35 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:36 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:37 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:38 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:39 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:40 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:41 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:42 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:43 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:44 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:45 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:46 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:47 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:48 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:49 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:50 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:51 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:52 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:53 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:54 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:56 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:44:57 [Thread-0] MyTimerLoggings - This is debug level.
+[INFO ] 13:46:00 [Thread-1] MyTimerLoggings - This is info level.
+[WARN ] 13:46:00 [Thread-2] MyTimerLoggings - This is warning level.
+[DEBUG] 13:46:00 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:01 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:02 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:03 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:04 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:05 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:06 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:07 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:08 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:09 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:10 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:11 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:12 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:13 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:14 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:15 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:16 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:17 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:18 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:19 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:20 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:21 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:22 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:23 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:24 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:25 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:26 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:27 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:28 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:29 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:30 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:31 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:32 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:33 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:34 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:35 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:36 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:37 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:38 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:39 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:40 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:41 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:42 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:43 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:44 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:46 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:47 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:48 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:49 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:50 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:51 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:52 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:53 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:54 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:55 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:56 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:57 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:58 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:46:59 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:47:00 [Thread-0] MyTimerLoggings - This is debug level.
+[INFO ] 13:47:00 [Thread-1] MyTimerLoggings - This is info level.
+[DEBUG] 13:47:01 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:47:02 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:47:03 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:47:04 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:47:05 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:47:06 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:47:07 [Thread-0] MyTimerLoggings - This is debug level.
+[DEBUG] 13:47:08 [Thread-0] MyTimerLoggings - This is debug level.
